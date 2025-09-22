@@ -17,12 +17,23 @@ Here are three things I enjoy doing:
 
 # Omelette
 
-## Ingredients
-- 2 eggs
-- 1/4 cup milk
-- A pinch of salt and pepper
-- Vegetables - tomatoes, onions, bell peppers
-- A little butter or cooking oil
+# Ingredients
+## - 2 eggs
+## - 1/4 cup milk
+## - A pinch of salt and pepper
+## - Vegetables - tomatoes, onions, bell peppers
+## - A little butter or cooking oil
+
+# Cooking Steps
+
+## - Crack the eggs into a bowl and whisk together with milk, salt, and pepper.
+## - **Chop the vegetables into small pieces.**
+## - Heat a pan and add **butter or oil.**
+## - Add the vegetables.
+## - Pour the egg **mixture** into the pan.
+## - Cook until the edges start to set.
+## - Ready to eat.
+
 
 # Exercise 3: Academic Integrity Policy Document
 
